@@ -1,0 +1,6 @@
+baseURL = 'https://vsantele.dev/'
+languageCode = 'fr-be'
+title = 'Victor Santelé - Blog'
+theme = "beautifulhugo"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
